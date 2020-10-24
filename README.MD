@@ -1,3 +1,3 @@
 Hillel devops super repo
 
-Co-authors: nitrotol, megavis, vvvis, dobrovolskyi
+Co-authors: nitrotol, megavis, vvvis, dobrovolskyi, yupirex
